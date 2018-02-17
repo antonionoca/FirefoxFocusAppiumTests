@@ -1,0 +1,13 @@
+{
+  "name": "firefox-focus-appium-tests",
+  "version": "1.0.0",
+  "description": "Feature tests for Firefox Focus Android app.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Noca",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "appium": "^1.7.2"
+  }
+}
