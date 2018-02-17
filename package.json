@@ -7,6 +7,10 @@
   },
   "author": "Antonio Noca",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url":"https://github.com/antonionoca/FirefoxFocusAppiumTests.git"
+  },
   "devDependencies": {
     "appium": "^1.7.2"
   }
