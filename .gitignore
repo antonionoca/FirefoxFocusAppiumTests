@@ -5,6 +5,7 @@ node_modules
 *.user
 *.userosscache
 *.sln.docstates
+**/AssemblyInfo.cs
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -21,4 +22,5 @@ bld/
 [Oo]bj/
 [Ll]og/
 
-
+# NuGet build folders/files
+packages
