@@ -21,4 +21,5 @@ bld/
 [Oo]bj/
 [Ll]og/
 
-
+# NuGet build folders/files
+packages
